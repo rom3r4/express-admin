@@ -23,7 +23,7 @@
         "url"   : "git://github.com/simov/express-admin.git"
     },
     "dependencies": {
-        "express"          : "4.4.4",
+        "express"          : "4.19.2",
         "morgan"           : "1.1.1",
         "body-parser"      : "1.4.3",
         "connect-multiparty": "1.1.0",
